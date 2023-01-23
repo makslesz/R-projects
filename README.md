@@ -1,14 +1,13 @@
-## R-sgh
-projects written in R
+# Projects in R
 
-# EUROSTAT-shiny
+## EUROSTAT-shiny
 
 Shiny app for viewing EUROSTAT data based on country, year and/or gender
 
-# EUROSTAT-ggplot
+## EUROSTAT-ggplot
 
 Program to visiualize data using ggplot2
 
-# File-browser
+## File-browser
 
 Basic terminal based file browser with additional arguemnts on file extensions, recursions etc.
